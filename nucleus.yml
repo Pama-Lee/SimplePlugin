@@ -1,0 +1,5 @@
+AppName: SimplePlugin
+Author: Pama Lee
+Version: 1.0.0
+Main: cn.pamalee.nucleus.simpleplugin.main
+Description: 这是一个测试「Plugin」
